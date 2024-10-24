@@ -1,0 +1,18 @@
+https://anjana396.github.io/portfolio-website/index.html
+
+All Styling & Customizations:
+- mainly white text on a dark background 
+- font- Poppins font from Google Fonts
+- Global styling-  (*)- for consistent spacing and layout across different browsers; font-family is set to 'Poppins', sans-serif
+- body background is set to rgb(6, 0, 15)
+- links (a) are styled to be white by default 
+- Navbar- spans the entire width, with padding for spacing; flexbox aligns navigation items. 
+"Portfolio"- increased font size and weight for emphasis; navigation links (navbar ul li a) have smooth hover transitions with a color change to grey.
+- Home- flex to align its contents centrally; headings and paragraphs have specific font sizes; button (.btn) in this section is styled with rounded edges, a solid background color, 
+and smooth transitions with "transparent" background when hovered.
+- img- circular image container with white background; img is styled to be contained within the circle
+- footer containing contact information- aligned centrally with white text and padding
+- Portfolio section- specifications for texts (font size, etc.);link- blue color bold font, changes to grey and underlined on hover
+- portfolio-info container uses flexbox to align its items horizontally
+- Highlighted items are displayed in a bulleted list with proper spacing 
+- img centered with rounded corners and shadow
